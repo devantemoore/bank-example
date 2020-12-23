@@ -1,0 +1,13 @@
+C:\Users\devante.moore\source\repos\BankExample\bin\Debug\netcoreapp3.1\BankExample.exe
+C:\Users\devante.moore\source\repos\BankExample\bin\Debug\netcoreapp3.1\BankExample.deps.json
+C:\Users\devante.moore\source\repos\BankExample\bin\Debug\netcoreapp3.1\BankExample.runtimeconfig.json
+C:\Users\devante.moore\source\repos\BankExample\bin\Debug\netcoreapp3.1\BankExample.runtimeconfig.dev.json
+C:\Users\devante.moore\source\repos\BankExample\bin\Debug\netcoreapp3.1\BankExample.dll
+C:\Users\devante.moore\source\repos\BankExample\bin\Debug\netcoreapp3.1\BankExample.pdb
+C:\Users\devante.moore\source\repos\BankExample\obj\Debug\netcoreapp3.1\BankExample.csprojAssemblyReference.cache
+C:\Users\devante.moore\source\repos\BankExample\obj\Debug\netcoreapp3.1\BankExample.AssemblyInfoInputs.cache
+C:\Users\devante.moore\source\repos\BankExample\obj\Debug\netcoreapp3.1\BankExample.AssemblyInfo.cs
+C:\Users\devante.moore\source\repos\BankExample\obj\Debug\netcoreapp3.1\BankExample.csproj.CoreCompileInputs.cache
+C:\Users\devante.moore\source\repos\BankExample\obj\Debug\netcoreapp3.1\BankExample.dll
+C:\Users\devante.moore\source\repos\BankExample\obj\Debug\netcoreapp3.1\BankExample.pdb
+C:\Users\devante.moore\source\repos\BankExample\obj\Debug\netcoreapp3.1\BankExample.genruntimeconfig.cache
